@@ -3,8 +3,7 @@ import os
 import requests
 import urllib
 
-# languageFilesDir = fr'C:\garmin_language_files'
-languageFilesDir = fr'D:\tmp\Vivoactive4_przerobiony_german.lnk_na PL\va4'
+languageFilesDir = fr'C:\garmin_language_files'
 destLanguageFileName = 'polish.ln4'
 destLangShortcut = 'pl'
 translationsSeparator = ';'
