@@ -1993,3 +1993,265 @@ e37440fa Strefa 5
 89b6d943 co %1
 a6944c89 rpm
 f7b0c2ae spm
+793d45ea NA
+dff522b5 Poziom API
+336b3c68 Alarmy nieprawidłowego tętna
+be50c82f Wykryto nienormalnie wysokie tętno
+f3e08deb Wykryto nienormalnie niskie tętno
+39da42ea Akcja
+f41de8c0 Pamięć aktywności pełna. 
+46816fdc Dodaj Wi-Fi, aby używać %1.
+392d9a38 Dodaj czynności.
+6e88aece Dodaj nowe
+43c57311 Dodaj dostawcę
+82dfe904 Dodaj widżety do listy.
+940e7823 Zaawansowane opcje
+e41d31e2 Alarm\nodrzucony
+c805abbc Alarm wstrzymany na\n10 minut
+521f47e3 Zezwolić na rejestrację?
+0fc78ad4 a
+133297ef %1 rano
+681c234f %1 rano
+6b801662 %1 rano
+bde7e1a8 %1 rano
+a931a793 %1 rano
+ae86b642 Aplikacja zostanie usunięta z urządzenia.
+ebbef246 Automatyczny odpoczynek
+558aa0b5 Autozapis
+c997f87f Średnie tętno
+e9a4c28b Ø częstość oddechów
+d07c2fc0 prędkość
+6d35f05a wyciskanie
+574d6d86 Nie można rozpocząć, ponieważ trwa inna czynność.
+d04fc71f Wysyłaj tętno
+78d9a3aa Dodaj sieć
+6a13bf34 Dodaj sieci Wi-Fi za pomocą aplikacji Garmin Connect
+d9bf576a Jakość powietrza: %1
+8419730d Zawsze
+fb926734 %1 a
+7d6608f2 %1 rano
+6c357b19 Automatyczne przesyłanie
+514b101b Zbyt niski poziom naładowania baterii, aby połączyć się przez Wi-Fi.
+27afed22 Poziom baterii jest zbyt niski, aby zsynchronizować muzykę. 
+1d59c72f Poziom baterii jest zbyt niski, aby wykonać pomiar pulsoksymetrii.
+56cdc38f Częstotl. oddechów %1
+8ffeaf85 Teraz
+e734c51c Jutro, %1
+58a50c2f Anulować
+4c169db8 Anulować synchronizację?
+8028d3f4 Błąd połączenia z serwerem. 
+e6deeb2e Nie można połączyć się z Wi-Fi. Kod błędu %1.
+0ae49f38 Brak możliwości połączenia z siecią WLAN. 
+aa67fa78 Nie można znaleźć adresu DHCP. 
+7be79977 Nie można przenieść podczas aktywności.
+6da35b95 Sprawdzanie aktualizacji
+6b861e01 Ukończono %1%.
+ede9763e Połącz się z Wi-Fi
+9d54bd01 Łączenie z %1
+667f3bb4 Błąd połączenia
+a263207b Połączono pomyślnie
+ed0b4088 1 dzień temu
+aaa3e6df %1 dni temu
+91ea3a2d punkt rosy
+8c80f834 Odrzucać
+21d3a832 Gotowe
+66db551f Błąd pobierania. 
+abf7bd66 Błąd pobierania. 
+ccefce71 Wolne pobieranie. 
+32a0bb83 Pobieranie powiodło się.
+02f4ab25 Pobierz aktualizacje
+c2f52c69 Edytować
+1dc1719d Błąd: Usuń kartę (ostatnie cyfry: %1) i spróbuj ponownie.
+1faf3b1b %1 zdarzeń
+c44480a5 Odczuwalna temperatura: %1
+671a5457 F
+e005083d Nie znaleziono GPS'a
+b50916cf GPS działa najsilniej na zewnątrz, z dala od drzew i wysokich budynków.
+d6f94713 Pomoc
+0d0e2bdb Pomoc
+b9e354fc 1 godzinę temu
+2344a0d3 %1 godzin temu
+eef0e1d5 Wilgotność
+7a772d4d Typ sieci nie jest obsługiwany.
+c24294cd Złe hasło.
+8b7996d8 Za mało miejsca na urządzeniu.
+48c9192e Wewnętrzny błąd Wi-Fi.
+54cf5e42 Nieprawidłowa długość hasła
+57aa002e Tylko raz
+a623aae1 Ostatnie %1 godzin
+46edd833 Rozpocząć %1?
+bca0409b Rozpocząć punkt trasy?
+220354cb Rozpocząć trening?
+97a07942 Wiadomość nie została wysłana. 
+1c108221 %1 minut temu
+6f3b0d0f M
+277e435f Synchronizacja muzyki zakończona
+d0120c2d Synchronizacja muzyki nie powiodła się
+d8d7bb3c Moje sieci
+4ae07454 Znalezione sieci
+4ba548d2 Brak połączenia z internetem.
+f9c7af42 Nie znaleziono znanych sieci Wi-Fi.
+85c89682 Brak dostępnych aktualizacji.
+bbd4c4ca Nie znaleziono sieci Wi-Fi.
+678bb2bd Powiadomienia
+40b1f158 Teraz
+7a1fec05 Więcej informacji w aplikacji Garmin Connect.
+95ff898d %1 p
+491b6131 %1 pm
+689ef2b0 Zły sygnał radiowy. 
+5cbfd78f Dostawca %1/%2
+9aa0e1de Nie ruszaj się
+48bf56a5 Pomiar pulsoksymetrem
+bed24878 Regeneracja po treningu. 
+af0dfdce Usunąć z moich sieci?
+62d76ebf S
+78293cae Wyszukiwane są sieci WLAN
+bd236b5a Skonfiguruj Wi-Fi za pomocą Garmin Connect Mobile.
+c0676b23 Od północy
+dc8d5fac Pomijać
+e407e3b1 Pominąć
+55f61f69 Nie można pobrać niektórych aktualizacji.
+d383591a Dzień ciąży
+f72f7ba0 Powyżej 42
+f315d711 %1 tyg. %2 dni
+32b8ee73 S
+75627fcf Synchronizacja: %1
+2939310b D
+ef3c6d62 Czas ustawiony
+6df17a90 Czas jest aktualizowany automatycznie po odebraniu sygnału GPS.
+5abcb886 Za dużo ruchu. 
+20135944 Przenoszenie już trwa.
+c0db967b Transmisja zakończona.
+30f4726b Przesyłanie zakończone\n(%1 plików nie powiodło się.)
+147f6681 Przesyłanie zakończone\n(1 plik nie powiódł się.)
+bac1f3a9 Transmisja nie powiodła się.
+5659ca57 Transfer w toku
+60948802 Spróbuj ponownie
+8e5a2d53 Spróbuj ponownie?
+fbc9256c D
+312cad90 Indeks UV: %1
+93e805d9 Nie można połączyć się z siecią Wi-Fi.
+7d4dc3af Nie można pobrać certyfikatu.
+fb856a5e Nie można wykonać pomiaru. 
+f7b6a68a Stan niezidentyfikowany. 
+f3d17f60 Lista sieci Wi-Fi jest aktualizowana.
+bd3657aa Poczekaj na GPS.
+58cb97c1 %1 %2 — Obraz mapy jest niedostępny
+4c4413e7 M
+4441235f Błąd wyszukiwania Wi-Fi.
+82a2d5cd WiFi
+a416818a Znaleziono sieci Wi-Fi.
+1c45262f Usunąć
+e08eb45b %1 treningów
+10ec5340 %1 godz
+4a4deb41 %1 godz
+7c04b821 %1 m
+b08f111c %1 min
+fbbbb033 Zbyt wysoka kadencja
+9056e78f Zbyt niska kadencja
+3333115f Zbyt wysoka kadencja
+6616ff43 Zbyt niska kadencja
+9f1a096e Kalorie
+4b24d276 Pola Connect IQ
+672ea456 Connect IQ
+83115568 MIN. ŚRED.
+428eae15 NIN. SUM.
+7412af6d MIN. MAX.
+abc9433f Martwy ciąg
+904903ef Usuń z urządzenia
+757fd59a Wyłącz rejestrowanie
+2d992e35 Wyłączyć rejestrowanie?
+f8745444 Odrzucać
+68cfabb3 Dystans
+49193f18 Gotowe
+02ccd050 Pić
+096538f0 Jeść
+aaec79ce Edytuj ustawienia pola danych
+9cda26e1 Edytować ustawienia pól danych?
+f4604209 Wprowadź prawidłowy czas.
+87b7f7f3 Wprowadź kod dostępu
+408c4aa3 Wprowadź wartość zaczynającą się od %1.
+ef3b4a02 Wprowadź wartość do %1.
+2d795d0a Czas pływania
+4c33d4db Tylko GPS
+f2234a23 Gotowy
+bc054efb Ruch
+baff4b42 Do domu
+9c7d917a Skonfiguruj później w ustawieniach muzyki.
+743dce17 Skonfiguruj później w widżecie Muzyka.
+0c04700d Przejdź do ustawień urządzenia w Garmin Connect, aby dodać sieci Wi-Fi.
+a3156305 Cel x%1!
+d4785df3 Dodano %1 do dostawców muzyki.
+7f1b7303 Zbyt wysokie tętno
+53282c6f Zbyt niskie tętno
+dd95a9a0 Ruszajmy!
+7624c92e Maksymalna prędkość
+0b3c1f1d Maksymalna liczba załadowanych treningów. 
+d3d03759 Alert braku aktywności został wyczyszczony. 
+6a395cc3 Nowy VO2 maks
+6ad17027 Brak dostępnych godzinowych danych pogodowych.
+628c7ee5 Nie podczas aktywności
+fc5c735d Wyłączone
+55845008 Wyłączone
+8765ef10 Pompka pionowa
+7513f197 PM
+2bcaa5ef Zbyt szybkie tempo
+a5146493 Zbyt wolne tempo
+e080e1b8 Pozostało %1% baterii.
+dd8fd8eb p
+63ee1f56 %1 po południu
+d89cc702 %1 po południu
+35c34e01 %1 po południu
+915f3a67 %1 po południu
+08dd8324 %1 po południu
+5a048200 Prywatność
+62b0441f Błąd radaru %1
+a96c1603 Rekordowa aktywność
+e389e76a Usunąć z listy
+6fe51dc6 Usunąć słuchawki?
+74b04ea2 Wymagany pomiar tętna na nadgarstku. 
+3d8f89ff Pokaż okrążenia
+172cb9b4 Wioślarstwo
+ed4134d2 Wysoki
+0a6cb244 Niski
+50500081 Środek
+565079f8 Ruch
+dd46a0d4 Zaktualizowano animacje treningowe.
+68fdd906 Zapisz
+308176c6 Zapisano jako aktywność.
+aec3e768 Konfiguracja
+0122bb24 Dostępne są aktualizacje. Czas trwania: %1 min. Zainstalować? 
+b4b53a7f Zbyt duża prędkość
+0fd98ee3 Zbyt niska prędkość
+bf4028e2 Przysiad
+ba4437e2 Stoper jest nadal aktywny. 
+b199fccf Zmiana stresu.
+32286b94 Rejestrowanie stresu
+162c9ace Dystans roczny
+db29c7ea Dyst.
+239155a3 Zbyt wysoka częstotliwość uderzeń
+6dbee78f Zbyt niska częstotliwość uderzeń
+9c391315 Ruch/Długość
+fb557388 Przegląd
+39fec0c2 Podczas synchronizacji przez Wi-Fi odtwarzanie muzyki zostaje zatrzymane.
+e14bd86b System % 1
+772f8eff Rusz się!
+1368983d Czas
+756c4626 Czas na większą aktywność!
+66abdd8c Czas się rozciągnąć i ruszać!
+bc8420f1 Razem: %1
+e93b73ad Obróć się
+c24740a5 Prześlij użycie
+a7e0c881 Dziennik użytkowania
+a1b9da02 Użyj %1 jako dostawcy muzyki?
+aa84117e Dodaj dostawców muzyki za pomocą aplikacji Connect IQ w telefonie.
+d4431bfb Trasy
+3446cba4 mm
+717d5dd5 VO2 max
+530061dc Poczekaj na GPS
+45415f96 Alarm bezczynności
+463f8b2b Strefa 1
+a3e69f9a Strefa 2
+75c553ad Strefa 3
+e2a47adc Strefa 4
+788d6647 Strefa 5
